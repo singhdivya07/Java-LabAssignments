@@ -1,0 +1,3 @@
+Hello, I am Divya Singh.
+This is the source file for lab assignment of file handling.
+It will read the text of this file.
